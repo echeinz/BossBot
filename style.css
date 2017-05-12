@@ -1,0 +1,20 @@
+
+body {
+    background-color: #04bc2d;
+}
+p {
+    background-color: #120925;
+}
+h1 {
+    background-color: #105923;
+}
+left-align {
+    text-align: left;
+}
+far-left {
+    margin: 0;
+    float: left;
+}
+.inputText {
+    color: red;
+}
